@@ -1,0 +1,5 @@
+{
+    "countExample_other": "You have {{count}} notifications",
+    "countExample_one": "You have {{count}} notification",
+    "welcomeMessage": "Welcome to React and react-i18next"
+}

@@ -1,0 +1,17 @@
+Npms:
+
+React Icons:
+
+Shadcn:
+
+React Routers:
+
+I18Next - I18Next React:
+
+Tailwind CSS:
+
+Vitest:
+
+JestDom:
+
+Test Library React:
